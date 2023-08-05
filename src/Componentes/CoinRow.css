@@ -1,0 +1,36 @@
+.coin_image_container img {
+  height: 40px;
+  margin: 10px 0;
+}
+
+@media (min-width: 768px) {
+  .coin_image_container {
+    width: 140px;
+    margin: auto;
+  }
+  .coin_image_container img {
+    height: 30px;
+    margin-left: 2%;
+  }
+
+  .table_coins td {
+    text-align: center;
+    padding: 15px 0;
+  }
+
+  .table_coins thead td,
+  .table_coins tbody td:first-of-type {
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+  .table_coins tbody td:not(:first-of-type) {
+    font-size: 12px;
+    padding: 0 10px;
+  }
+
+  td .graph {
+    width: 80%;
+    margin: auto;
+  }
+}
