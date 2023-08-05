@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Giovannyhs/criptomoneda/static/css/main.522edca4.css",
+    "main.js": "/Giovannyhs/criptomoneda/static/js/main.37b3c7a5.js",
+    "static/js/787.f3e545b7.chunk.js": "/Giovannyhs/criptomoneda/static/js/787.f3e545b7.chunk.js",
+    "index.html": "/Giovannyhs/criptomoneda/index.html",
+    "main.522edca4.css.map": "/Giovannyhs/criptomoneda/static/css/main.522edca4.css.map",
+    "main.37b3c7a5.js.map": "/Giovannyhs/criptomoneda/static/js/main.37b3c7a5.js.map",
+    "787.f3e545b7.chunk.js.map": "/Giovannyhs/criptomoneda/static/js/787.f3e545b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.522edca4.css",
+    "static/js/main.37b3c7a5.js"
+  ]
+}
