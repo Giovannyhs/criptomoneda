@@ -104,7 +104,7 @@ export default function Graph({
               display: false,
             },
             ticks: {
-              callback: function (value, index, ticks) {
+              callback: function (value, _index, ticks) {
                 return `$${value
                   .toString()
                   .replace(

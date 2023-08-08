@@ -35,7 +35,7 @@ export default function Convert() {
     });
 
     a ? setRes(a / b) : setRes(0);
-  }, [mainTxt, selCoin1, selCoin2]);
+  }, [coin, mainTxt, selCoin1, selCoin2]);
 
   return (
     <div className="contenedor">

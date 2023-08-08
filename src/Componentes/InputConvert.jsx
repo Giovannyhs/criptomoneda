@@ -17,7 +17,7 @@ export default function InputConvert({
   return (
     <>
       <div className="input">
-        {type == 0 ? (
+        {type === 0 ? (
           <input
             type="number"
             placeholder="0"
